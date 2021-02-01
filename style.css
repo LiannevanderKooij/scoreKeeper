@@ -1,0 +1,36 @@
+
+
+/* img {
+    width: 325px;
+    height: 200px;
+}
+
+#buttons {
+    margin-top: 20px;
+}
+
+/* #player1 {
+    background-color: #06d6a0;
+    color: white;
+} */
+
+/* #player2 {
+    background-color: #118ab2;
+    color: white;
+}
+
+#reset {
+    background-color: #ef476f;
+    color: white;
+}
+
+.button {
+    padding: 5px;
+} */ 
+
+#score1 {
+    transition: color 0.5s;
+}
+#score2 {
+    transition: color 0.5s;
+}
